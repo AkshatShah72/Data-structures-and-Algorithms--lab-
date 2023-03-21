@@ -5,7 +5,7 @@
     * sorting methods............<br>
      * minimum and maximum element from the array.........<br>
 - **Practical No. 2 [Revision of Structures] ...........<br>**
-- **Practical No. 3 [Revision of Pointers] ..............<br>**<br>
+- **Practical No. 3 [Revision of Pointers] ..............<br>**
 * arrays of pointers..............<br>
  * pointers to arrays.................<br>
   * pointers to structures ...........<br>
