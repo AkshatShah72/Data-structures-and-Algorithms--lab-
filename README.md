@@ -1,10 +1,10 @@
 # Data-structures-and-Algorithms-lab
-- Practical No. 1 [Revision of Arrays] .........<br>
+- ** Practical No. 1 [Revision of Arrays] .........<br>
   * linear search..............<br>
-* binary search..............<br>
+   * binary search..............<br>
 sorting methods............<br>
-minimum and maximum element from the array.........<br>
-Practical No. 2 [Revision of Structures] ...........<br>
+* minimum and maximum element from the array.........<br>
+** Practical No. 2 [Revision of Structures] ...........<br>
 Practical No. 3 [Revision of Pointers] ..............<br>
 arrays of pointers..............<br>
 pointers to arrays.................<br>
