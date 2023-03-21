@@ -4,13 +4,13 @@
    * binary search..............<br>
     * sorting methods............<br>
      * minimum and maximum element from the array.........<br>
-**Practical No. 2 [Revision of Structures] ...........<br>
-Practical No. 3 [Revision of Pointers] ..............<br>**
+- **Practical No. 2 [Revision of Structures] ...........<br>
+- **Practical No. 3 [Revision of Pointers] ..............<br>**
 * arrays of pointers..............<br>
  * pointers to arrays.................<br>
   * pointers to structures ...........<br>
    * swapping of two numbers ..........<br>
-**Practical No. 4 [Linked List] .........<br>**
+- **Practical No. 4 [Linked List] .........<br>**
 - One sorted list using two sorted list........<br>
  * Insertion.............<br>
   * Deletion............<br>
