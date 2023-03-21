@@ -1,15 +1,15 @@
 # Data-structures-and-Algorithms-lab
-- ** Practical No. 1 [Revision of Arrays] .........<br>
+- **Practical No. 1 [Revision of Arrays] .........<br>**
   * linear search..............<br>
    * binary search..............<br>
-sorting methods............<br>
-* minimum and maximum element from the array.........<br>
+    * sorting methods............<br>
+     * minimum and maximum element from the array.........<br>
 **Practical No. 2 [Revision of Structures] ...........<br>
 Practical No. 3 [Revision of Pointers] ..............<br>**
 * arrays of pointers..............<br>
-* pointers to arrays.................<br>
-* pointers to structures ...........<br>
-* swapping of two numbers ..........<br>
+ * pointers to arrays.................<br>
+  * pointers to structures ...........<br>
+   * swapping of two numbers ..........<br>
 **Practical No. 4 [Linked List] .........<br>**
 - One sorted list using two sorted list........<br>
  * Insertion.............<br>
@@ -28,7 +28,7 @@ Doubly linked list.........<br>*
 - Queue using arrays ...................<br>
  * Queue using linked list............<br>
   * Double ended queue.....<br>
-*Priority Queue..................<br>*
+   * *Priority Queue..................<br>*
 **Practical No. 8 [Trees]..........<br>**
 Binary tree and traversals..........<br>
 Binary Search trees…………………<br>
