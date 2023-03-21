@@ -1,4 +1,6 @@
 # Data-structures-and-Algorithms-lab
+
+## List of concepts covered during the course
 - **Practical No. 1 [Revision of Arrays] .........<br>**
   * linear search..............<br>
    * binary search..............<br>
@@ -11,11 +13,11 @@
     * pointers to structures ...........<br>
      * swapping of two numbers ..........<br>
 - **Practical No. 4 [Linked List] .........<br>**
- * One sorted list using two sorted list........<br>
-  * Insertion.............<br>
-   * Deletion............<br>
-    *Circular linked list............<br>
-     *Doubly linked list.........<br>*
+  * One sorted list using two sorted list........<br>
+   * Insertion.............<br>
+    * Deletion............<br>
+     *Circular linked list............<br>
+      *Doubly linked list.........<br>*
 - **Experiment No. 5 [Stack Application] ..........<br>**
   * Stack using array ...............<br>
    * Stack using linked list........<br>
@@ -28,7 +30,7 @@
   * Queue using arrays ...................<br>
    * Queue using linked list............<br>
     * Double ended queue.....<br>
-   * *Priority Queue..................<br>*
+     * *Priority Queue..................<br>*
 - **Practical No. 8 [Trees]..........<br>**
   * Binary tree and traversals..........<br>
    * Binary Search trees…………………<br>
